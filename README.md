@@ -6,6 +6,14 @@ This is the fourth project for the Udacity [Robotics Software Engineer](https://
 While the robot is moving, the image and location is saved into a database. We use ```rtabmap-databaseViewer``` to read the database.
 ![](images/image1.png 'image1')
 
+The database file for this project is located at
+
+[db file](https://drive.google.com/file/d/1aYkqB1Yaymvk_b_mE1dUrEgUEMhs5yNh/view?usp=sharing)
+
+or
+
+[db file mirror](https://storage.googleapis.com/udacity_1231231/rtabmap.db)
+
 ## How to build
 ```
 mkdir -p catkin_ws/src
